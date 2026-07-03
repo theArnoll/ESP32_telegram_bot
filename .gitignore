@@ -2,3 +2,4 @@
 .vscode
 *.backup
 compile_commands.json
+src/settings.h
